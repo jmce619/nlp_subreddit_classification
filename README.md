@@ -1,7 +1,7 @@
 # Classification of News Article Subreddit Posts
 ### By Jamie McElhiney
 
-I am a member of a news agency that promotes our content on reddit. We want to post a breaking news story ASAP on the correct news subreddit so we can get exposure and traffic on our website since all posts on the subreddit are third party links. There are 2 main news subreddits r/worldnews and r/news that are very similar. There is no clear cut topic that separates these two subreddits. We don’t want to post the article on both subreddits and hope for the best since we can be marked for spam, leading to our article being deleted and a warning from reddit. We also want to uphold our reddit reputation as people call each other out for crossposting often.   
+We want to post a breaking news story ASAP on the correct news subreddit so we can get exposure and traffic on our website since all posts on the subreddit are third party links. There are 2 main news subreddits r/worldnews and r/news that are very similar. There is no clear cut topic that separates these two subreddits. We don’t want to post the article on both subreddits and hope for the best since we can be marked for spam, leading to our article being deleted and a warning from reddit. We also want to uphold our reddit reputation as people call each other out for crossposting often.   
 We are going to use these two subreddits, r/worldnews and r/news, to develop a classification model that will recommend which subreddit to post our breaking story to based on our title. We will develop three different classification models to classify our news article: LogisticRegression, Naive Bayes, and K-Nearest Neighbor. 
 
 ## Executive Summary
